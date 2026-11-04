@@ -29,7 +29,7 @@ To claim a 📓 task, set yours to 🔄 In progress and the other person's to �
 
 | Task | Type | Ian | Ryan |
 |---|:---:|:---:|:---:|
-| Create the shared GitHub repo and add the collaborator | 📓 Once | ⬜ | ⬜ |
+| Create the shared GitHub repo and add the collaborator | 📓 Once | ⬜ | ✅ |
 | Set up folder structure (`notebooks/`, `data/`, `src/`, `results/`) and `.gitignore` for data files | 📓 Once | ⬜ | ⬜ |
 | Set up the environment (`requirements.txt` / conda env) and confirm GPU access on department machines | 📓 Once | ⬜ | ⬜ |
 | Create the main `final_project.ipynb` with a section skeleton | 📓 Once | ⬜ | ⬜ |
