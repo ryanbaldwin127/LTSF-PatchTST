@@ -17,6 +17,8 @@ To claim a 📓 task, set yours to 🔄 In progress and the other person's to �
 
 ### Dataset split
 
+Standard time-series datasets can be found here: https://github.com/laiguokun/multivariate-time-series-data
+
 | | Ian | Ryan |
 |---|---|---|
 | Datasets | _TBD_ | _TBD_ |
