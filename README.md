@@ -1,6 +1,6 @@
 # Long-Term Time Series Forecasting with PatchTST
 
-**Team:** Ian Fisk, Ryan Baldwin · CS 545, Colorado State University · **Due:** December 5, 2026
+**Team:** Ian Fisk, Ryan Baldwin · CS 545, Colorado State University · **Due:** December 13, 2026
 
 We explain and test **PatchTST** (Nie et al., 2023), a transformer for long-term time series forecasting (LTSF). Our deliverable is one teaching notebook, [`finalreport.ipynb`](finalreport.ipynb), written in the style of the course notebooks for a reader who knows transformers up to BERT and small LLMs.
 
