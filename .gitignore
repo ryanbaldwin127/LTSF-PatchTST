@@ -2,3 +2,5 @@
 **/.ipynb_checkpoints
 data/*.txt
 data/*.csv
+__pycache__/
+src/ryan/docs
