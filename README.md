@@ -4,10 +4,10 @@
 
 We explain and test **PatchTST** (Nie et al., 2023), a transformer for long-term time series forecasting (LTSF). Our deliverable is one teaching notebook, [`finalreport.ipynb`](finalreport.ipynb), written in the style of the course notebooks for a reader who knows transformers up to BERT and small LLMs.
 
-The story the notebook tells:
+The report contains:
 
-1. **Time series basics:** what the data looks like, trend and seasons, and why we predict the whole future at once instead of one step at a time.
-2. **Where earlier models fall short:** Zeng et al. (2023) showed that a single linear layer beat the transformer forecasters of the time.
+1. **Time series basics:** what the data looks like and why we predict the whole future at once instead of one step at a time.
+2. **Where earlier models fall short:** Zeng et al. (2023) showed that a single linear layer beat the SATA transformer forecasters of the time.
 3. **How PatchTST answers that:** *patching* (groups of time steps become tokens) and *channel independence* (every series shares one backbone).
 4. **Experiments:** PatchTST compared against seasonal, linear and other baselines, plus experiments on the architecture.
 
