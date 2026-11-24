@@ -59,7 +59,7 @@ The benchmark CSVs (ETTh1/h2/m1/m2, Weather, Traffic, Electricity, Exchange Rate
 - [ ] Decide whether to keep the vanilla one-token-per-step transformer baseline from the proposal
 - [ ] Rough draft of `finalreport.ipynb` (target: Nov 28)
 - [ ] Review each other's sections
-- [ ] References, dataset citations, restart and run all, submit (Dec 5)
+- [ ] References, dataset citations, restart and run all, submit (Dec 13)
 
 ## Contributions
 
